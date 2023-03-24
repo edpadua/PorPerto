@@ -8,7 +8,7 @@ function ListaDeLugares({ lugares }) {
     
 
     return (
-        <div className="lista_lugares">
+        <>
 
 
 
@@ -23,7 +23,7 @@ function ListaDeLugares({ lugares }) {
 
                 )}
 
-            </div>
+            </>
     );
 }
 

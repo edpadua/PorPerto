@@ -1,11 +1,10 @@
-import GoogleMapReact from "google-map-react";
+import './Mapa.css';
 
-
-        
+import GoogleMapReact from "google-map-react";        
 
 export default function Mapa({ latitude, longitude, setLatitude, setLongitude }) {
     return (
-        <div className="mapa_lugares" >
+        <>
             <GoogleMapReact
                 bootstrapURLKeys={{
                     key: process.env.REACT_APP_GOOGLE_MAPS_KEY,
@@ -20,7 +19,7 @@ export default function Mapa({ latitude, longitude, setLatitude, setLongitude })
                 }}
             >
             </GoogleMapReact>
-        </div>
+        </>
      
   
   );

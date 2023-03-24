@@ -67,17 +67,21 @@ function Lugares() {
 
         <div className="lugares">
 
+            <div className="lista_lugares">
 
-            <ListaDeLugares lugares={lugares} />
+                <ListaDeLugares lugares={lugares} />
 
+            </div>
+            <div className="mapa_lugares" >
 
-            <Mapa
-                latitude={latitude}
-                longitude={longitude}
-                setLatitude={setLatitude}
-                setLongitude={setLongitude}
-            />
+                <Mapa
+                    latitude={latitude}
+                    longitude={longitude}
+                    setLatitude={setLatitude}
+                    setLongitude={setLongitude}
+                />
 
+            </div>
 
         </div>
     );
