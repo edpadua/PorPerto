@@ -77,9 +77,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### Other used Libraries
+
+- Axios 
+- google-map-react
+
 ### [🌐 Demo](por-perto.vercel.app)###
 
+## :desktop_computer: Desktop design
+
 ![image](https://user-images.githubusercontent.com/4975360/227570404-3e918c53-a574-41a8-9dec-49f27dd9aab7.png)
+
+## :iphone: Tablets design
 
 ![image](https://user-images.githubusercontent.com/4975360/227570829-2cf8c3eb-b257-48bc-b9b9-e5798fe70a91.png)
 
