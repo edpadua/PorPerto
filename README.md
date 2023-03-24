@@ -82,7 +82,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Axios 
 - google-map-react
 
-### [🌐 Demo](por-perto.vercel.app)###
+### [🌐 Demo](por-perto.vercel.app)
 
 ## :desktop_computer: Desktop design
 
