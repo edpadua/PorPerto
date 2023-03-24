@@ -1,4 +1,10 @@
 # PorPerto
+
+## About 
+
+This App shows a list of restaurants close to a location on Google Maps and the main information of each place. When user drags the map, the restaurant list is updated.
+
+The purpose of this project is to evolve the use of APIs with React, in this case more than one API was used, the Travel Advisor API, which provides the list of places and their information and the Google Maps API. The biggest challenge was to make the two APIs work together, when changing the Map coordinates the list of places was updated.
  
 # Getting Started with Create React App
 
@@ -70,3 +76,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### [🌐 Demo](por-perto.vercel.app)###
+
+![image](https://user-images.githubusercontent.com/4975360/227570404-3e918c53-a574-41a8-9dec-49f27dd9aab7.png)
+
+![image](https://user-images.githubusercontent.com/4975360/227570829-2cf8c3eb-b257-48bc-b9b9-e5798fe70a91.png)
+
+
+[🚀 Travel Avisor API](https://rapidapi.com/apidojo/api/travel-advisor)
+
+Get the key values REACT_APP_TRAVEL_KEY from the website.
+
+Open the file .env, insert the key value.
+
+[🚀 Google Maps API](https://console.cloud.google.com/google/maps-apis/credentials)
+
+Get the key values REACT_APP_GOOGLE_MAPS_KEY from the website.
+
+Open the file .env, insert the key value.
+
+
+
+
