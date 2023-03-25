@@ -14,7 +14,8 @@ function Lugar({ lugar, index }) {
 
             { lugar.name ?
                 <>
-                <img src={lugar.photo ? lugar.photo.images.large.url : 'https://www.foodserviceandhospitality.com/wp-content/uploads/2016/09/Restaurant-Placeholder-001.jpg'} />
+                <img src={lugar.photo ? lugar.photo.images.large.url : 'https://www.foodserviceandhospitality.com/wp-content/uploads/2016/09/Restaurant-Placeholder-001.jpg'} 
+                alt={lugar.photo ? lugar.photo.images.large.name : 'padrão'}/>
 
                 <div className="lugarTituloBox">
                     <div className="lugarTitulo">
