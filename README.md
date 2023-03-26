@@ -86,15 +86,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## :desktop_computer: Desktop design
 
-![image](https://user-images.githubusercontent.com/4975360/227570404-3e918c53-a574-41a8-9dec-49f27dd9aab7.png)
+<img width="300px" src="https://user-images.githubusercontent.com/4975360/227570404-3e918c53-a574-41a8-9dec-49f27dd9aab7.png" >
 
 ## :iphone: Tablets design
 
-![image](https://user-images.githubusercontent.com/4975360/227570829-2cf8c3eb-b257-48bc-b9b9-e5798fe70a91.png)
+<img width="300px" src="https://user-images.githubusercontent.com/4975360/227570829-2cf8c3eb-b257-48bc-b9b9-e5798fe70a91.png" >
 
 ## :iphone: Mobile design
 
-![20230326_095253_temp](https://user-images.githubusercontent.com/4975360/227777487-073bdde4-d11d-4abe-8844-1ba312ad35b2.jpg)
+<img width="300px" src="https://user-images.githubusercontent.com/4975360/227777487-073bdde4-d11d-4abe-8844-1ba312ad35b2.jpg" >
 
 [🚀 Travel Avisor API](https://rapidapi.com/apidojo/api/travel-advisor)
 
